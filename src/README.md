@@ -2,7 +2,7 @@
 listen music with style provides free 24/7 music, spotify, youtube, soundcloud, deezer, twitch supported, and many more.
 
 <h1
-style="color:orange">NezukoChan</h1> <img align="right" src="https://cdn.discordapp.com/avatars/616169470293049344/f9775c85157c37fa57b3582cae04a1cd.webp?size=2048" width="150"></a>
+style="color:orange">NezukoChan</h1> <img align="right" src="https://cdn.discordapp.com/avatars/616169470293049344/386ee233adcea13d6dceed4cf9569d70.webp?size=2048" width="150"></a>
 
 Most free premium quality music bot, YouTube, Spotify also supported.
 
