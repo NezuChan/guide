@@ -19,7 +19,7 @@ const config = {
 	plugins: [],
 	theme: 'yuu',
 	themeConfig: {
-		repo: 'nezukochan/guide',
+		repo: 'nezuchan/guide',
 		docsDir: 'guide',
 		sidebarDepth: 3,
 		editLinks: true,
