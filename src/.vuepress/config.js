@@ -20,7 +20,7 @@ const config = {
 	theme: 'yuu',
 	themeConfig: {
 		repo: 'nezuchan/guide',
-		docsDir: 'guide',
+		docsDir: 'src',
 		sidebarDepth: 3,
 		editLinks: true,
 		lastUpdated: true,
