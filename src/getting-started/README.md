@@ -1,5 +1,8 @@
-# 📜 Adding bot to your servers
-
+---
+title: "Getting started"
+date: "2021-12-23T10:17:49.047Z"
+description: "How to get started for first time"
+---
 # 🔗 Invite bot
 
 - Click this link [NezukoChan](https://top.gg/bot/616169470293049344/invite/)
