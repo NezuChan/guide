@@ -1,4 +1,6 @@
-# 🎵 Playing music
+---
+title: 🎵 Playing music
+---
 
 ### Important things:
 - You must on voice channel
