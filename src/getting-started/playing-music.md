@@ -1,5 +1,5 @@
 ---
-title: 🎵 Playing music
+title: "🎵 Playing music"
 ---
 
 ### Important things:
