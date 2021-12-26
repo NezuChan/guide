@@ -1,4 +1,8 @@
-# 📜 Getting bot prefix
+---
+title: "Getting bot prefix"
+description: "Get bot prefix or change it"
+date: "2021-12-26T06:59:11.135Z"
+---
 
 you can tag @NezukoChan to get current server prefix.
 
@@ -7,4 +11,4 @@ you can tag @NezukoChan to get current server prefix.
 
 # Setting custom prefix
 
-<p>To set bot prefix you can use +prefix `new prefix`</p>
+<p>This feature has been temporary disabled</p>

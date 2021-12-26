@@ -1,4 +1,8 @@
-# Adding bot to your server
+---
+title: "Adding bot to your server"
+description: "Add bot to your or friend server"
+date: "2021-12-26T06:59:11.135Z"
+---
 
 ### Bot invite links <a href="bot-invite-links" id="bot-invite-links"></a>
 
