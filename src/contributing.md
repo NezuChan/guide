@@ -15,7 +15,7 @@ image: "https://i.imgur.com/b1NVloO.jpg"
       <li class="dark:text-white">Fork the repository</li>
       <li class="dark:text-white">In your forked repository, make your changes in a new git branch:</li>
       <pre>git checkout -b my-fix-branch master</pre>
-      <li class="dark:text-white">Commit your changes using a descriptive commit message that follows our <a href="#commit-message">commit message conventions</a>.</li>
+      <li class="dark:text-white">Commit your changes using a descriptive commit message that follows our <a class="dark:text-white" href="#commit-message">commit message conventions</a>.</li>
       <pre>git commit --all</pre>
       <li class="dark:text-white">Push your branch to GitHub:</li>
       <pre>git push origin my-fix-branch</pre>
