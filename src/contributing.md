@@ -22,9 +22,9 @@ image: "https://i.imgur.com/b1NVloO.jpg"
       <li class="dark:text-white">In GitHub, send a pull request to guide:master.</li>
     </ul>
 
-    <h3 id="commit-message" class="dark:text-white">Commit Message Format</h3>
+    <h3 class="dark:text-white" id="commit-message">Commit Message Format</h3>
     <p class="text-lg dark:text-white">We have very precise rules over how our Git commit messages must be formatted. This format leads to easier to read commit history.</p>
-    <h4>Commit Message</h4>
+    <h4 class="dark:text-white">Commit Message</h4>
     <pre>
 &lt;type&gt;(&lt;scope&gt;): &lt;short summary&gt;
    │      │             │
