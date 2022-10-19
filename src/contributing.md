@@ -7,7 +7,7 @@ image: "https://i.imgur.com/b1NVloO.jpg"
 
 <div class="container mx-4 h-auto w-auto rounded-md bg-white px-6 py-10 shadow-lg dark:bg-deep-purple-570530 md:mx-auto">
   <article class="prose lg:prose-xl">
-    <h3 class=dark:text-white>Submitting a Pull Request (PR)</h3>
+    <h3 class="dark:text-white">Submitting a Pull Request (PR)</h3>
     <p class="text-lg dark:text-white">Before you submit your Pull Request (PR) consider the following guidelines:</p>
     <ul class="list-disc">
       <li class="dark:text-white">Search GitHub for an open or closed PR that relates to your submission. You don't want to duplicate existing efforts.</li>
