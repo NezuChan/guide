@@ -5,7 +5,7 @@ date: "2022-10-18T17:17:56.247Z"
 image: "https://i.imgur.com/b1NVloO.jpg"
 ---
 
-<div class="container mx-4 h-auto w-auto rounded-md bg-white px-6 py-10 shadow-lg dark:bg-deep-purple-570530 md:mx-auto">
+<div class="container mx-4 h-auto w-auto rounded-md bg-white px-6 py-4 shadow-lg dark:bg-deep-purple-570530 md:mx-auto">
   <article class="prose lg:prose-xl">
     <h3 class="dark:text-white">Submitting a Pull Request (PR)</h3>
     <p class="text-lg dark:text-white">Before you submit your Pull Request (PR) consider the following guidelines:</p>
