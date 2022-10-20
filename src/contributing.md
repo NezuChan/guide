@@ -29,7 +29,7 @@ image: "https://i.imgur.com/b1NVloO.jpg"
         <pre>git checkout -b my-fix-branch master</pre>
         <li className="dark:text-white">
           Commit your changes using a descriptive commit message that follows
-          our <a href="#commit-message">commit message conventions</a>.
+          our <a className="dark:text-white" href="#commit-message">commit message conventions</a>.
         </li>
         <pre>git commit --all</pre>
         <li className="dark:text-white">Push your branch to GitHub:</li>
