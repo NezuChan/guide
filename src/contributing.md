@@ -80,7 +80,7 @@ image: "https://i.imgur.com/b1NVloO.jpg"
 
       <p className="dark:text-white">
         There are much of Discord component supported by
-        <a href="https://www.npmjs.com/package/@skyra/discord-components-react">
+        <a className="dark:text-white" href="https://www.npmjs.com/package/@skyra/discord-components-react">
           @skyra/discord-components-react
         </a>
         . as above, an example message component in Discord
