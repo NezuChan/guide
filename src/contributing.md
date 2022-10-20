@@ -26,14 +26,16 @@ image: "https://i.imgur.com/b1NVloO.jpg"
         <li className="dark:text-white">
           In your forked repository, make your changes in a new git branch:
         </li>
-        <pre>git checkout -b my-fix-branch master</pre>
+        <pre className="not-prose w-full">
+          git checkout -b my-fix-branch master
+        </pre>
         <li className="dark:text-white">
           Commit your changes using a descriptive commit message that follows
-          our <a className="dark:text-white" href="#commit-message">commit message conventions</a>.
+          our <a href="#commit-message">commit message conventions</a>.
         </li>
-        <pre>git commit --all</pre>
+        <pre className="not-prose">git commit --all</pre>
         <li className="dark:text-white">Push your branch to GitHub:</li>
-        <pre>git push origin my-fix-branch</pre>
+        <pre className="not-prose w-full">git push origin my-fix-branch</pre>
         <li className="dark:text-white">
           In GitHub, send a pull request to guide:master.
         </li>
@@ -63,64 +65,61 @@ image: "https://i.imgur.com/b1NVloO.jpg"
         To help you contribute, we have prepared guide for you to use while
         contributing to our page
       </p>
-    </article>
 
-    <DiscordMessages className="rounded">
-      <DiscordMessage
-        avatar={"https://i.kagchi.my.id/nezuko.png"}
-        bot={true}
-        verified={true}
-        author="NezukoChan"
-        style={{
-          prose: "!important"
-        }}
-      >
-        {" "}
-        Hello ! I will be your assistant from now on !{" "}
-      </DiscordMessage>
-    </DiscordMessages>
-
-    <article className="prose lg:prose-xl">
-      <p className="dark:text-white">
-        There are much of Discord component supported by
-        @skyra/discord-components-react. as above, an example message component
-        in Discord
-      </p>
-      <h4 className="dark:text-white">Slash Command Usage</h4>
-    </article>
-
-    <DiscordMessages className="rounded">
-      <DiscordMessage
-        avatar={"https://i.kagchi.my.id/nezuko.png"}
-        bot={true}
-        verified={true}
-        author="NezukoChan"
-      >
-        <DiscordCommand
-          slot="reply"
-          profile="favna"
-          command="/ping"
-        ></DiscordCommand>
-        Pong!
-      </DiscordMessage>
-      <DiscordMessage
-        avatar={"https://i.kagchi.my.id/nezuko.png"}
-        bot={true}
-        verified={true}
-        author="NezukoChan"
-        ephemeral
-      >
-        <DiscordReply
-          slot="reply"
+      <DiscordMessages className="rounded not-prose">
+        <DiscordMessage
           avatar={"https://i.kagchi.my.id/nezuko.png"}
           bot={true}
           verified={true}
           author="NezukoChan"
-          command
         >
+          {" "}
+          Hello ! I will be your assistant from now on !{" "}
+        </DiscordMessage>
+      </DiscordMessages>
+
+      <p className="dark:text-white">
+        There are much of Discord component supported by
+        <a href="https://www.npmjs.com/package/@skyra/discord-components-react">
+          @skyra/discord-components-react
+        </a>
+        . as above, an example message component in Discord
+      </p>
+      <h4 className="dark:text-white">Slash Command Usage</h4>
+
+      <DiscordMessages className="rounded not-prose">
+        <DiscordMessage
+          avatar={"https://i.kagchi.my.id/nezuko.png"}
+          bot={true}
+          verified={true}
+          author="NezukoChan"
+        >
+          <DiscordCommand
+            slot="reply"
+            profile="favna"
+            command="/ping"
+          ></DiscordCommand>
           Pong!
-        </DiscordReply>
-        Took 100ms.
-      </DiscordMessage>
-    </DiscordMessages>
+        </DiscordMessage>
+        <DiscordMessage
+          avatar={"https://i.kagchi.my.id/nezuko.png"}
+          bot={true}
+          verified={true}
+          author="NezukoChan"
+          ephemeral
+        >
+          <DiscordReply
+            slot="reply"
+            avatar={"https://i.kagchi.my.id/nezuko.png"}
+            bot={true}
+            verified={true}
+            author="NezukoChan"
+            command
+          >
+            Pong!
+          </DiscordReply>
+          Took 100ms.
+        </DiscordMessage>
+      </DiscordMessages>
+    </article>
   </div>
